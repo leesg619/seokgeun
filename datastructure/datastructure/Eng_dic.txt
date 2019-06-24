@@ -1,0 +1,10 @@
+go
+가다
+cook
+요리하다
+girl
+여자
+save
+저장하다
+zoo
+동물원
